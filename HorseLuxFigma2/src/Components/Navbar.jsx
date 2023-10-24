@@ -40,7 +40,7 @@ function Navbar() {
         </li>
 
          <li>
-          <Link to="/Fireartlife" className="font-bold">Fireartlife</Link>
+          <Link to="/Services" className="font-bold">Services</Link>
         </li>
 
          <li>

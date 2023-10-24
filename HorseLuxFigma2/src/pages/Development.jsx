@@ -3,7 +3,7 @@ import img from "../images/handlaptop.jpg";
 
 const Development = () => {
   return (
-    <div className='bg-gray-400'>
+    <div className='bg-gray-300'>
       <p className="font-serif p-10 ml-44 text-4xl font-bold">Scope of Web Design and Development Services</p>
       <div className="flex gap-x-24">
         <img src={img}  style={{width:'500px'}} alt="Development" />
