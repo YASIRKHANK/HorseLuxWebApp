@@ -1,24 +1,3 @@
-// import React from 'react'
-
-// const Illustration = () => {
-//   return (
-//     <div>
-//       <div>
-//      <div className='bg-black text-white font-serif py-5  '>
-//      <p className='ml-20'>Digital illusatrion 10 defaning illustration</p> 
-//      </div>
-//     <div>
-//       <p>Illusatrion visallay communicate  a message, An illusatrion conceputually and sumarized a verbal ideas and simplify that idea so it is imeditally under stood </p>
-//       <p> And illusratrion mixe multiple concept together to convey complex ideain a simple and harmonious  way</p>
-//       <p>An illusatration is impactfull powerfull and achived what a litral  picture can not</p>
-//       <p>illusartion think in a picture </p>
-//      </div>
-//      </div>
-//     </div>
-//   )
-// }
-
-// export default Illustration
 
 
 import React from 'react';

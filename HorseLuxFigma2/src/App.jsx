@@ -3,9 +3,9 @@ import React from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Header from './Components/Header';
 import Navbar from './Components/Navbar';
-// import Card1 from './Components/Card1';
-// import Card2 from './Components/Card2';
-// import Fotter from './Components/Fotter';
+import Card1 from './Components/Card1';
+import Card2 from './Components/Card2';
+import Fotter from './Components/Fotter';
 import Branding from './pages/Branding';
 import Development from './pages/Development';
 import Services from './pages/Services';
@@ -33,9 +33,9 @@ function App() {
 
         </Routes>
       </div>
-      {/* <Card1 />
+      <Card1 />
       <Card2 />
-      <Fotter /> */}
+      <Fotter />
     </Router>
   );
 }
